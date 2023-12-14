@@ -1,2 +1,2 @@
-# Hotel-de-20-andares
-Atividade da aula
+# Atividades da Proz
+Relação de todas as atividades do curso de Introdução a Programação.
